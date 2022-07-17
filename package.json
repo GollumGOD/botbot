@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "facebook-chat-api": "^0.2.3",
+    "fs": "^0.0.1-security",
+    "jsonfile": "^6.1.0"
+  }
+}
